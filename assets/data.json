@@ -305,10 +305,6 @@
           "url": "https://faxian.smzdm.com/h1s0t0f0c1p1/#filter-block"
         },
         {
-          "name": "B站",
-          "url": "https://www.bilibili.com/"
-        },
-        {
           "name": "博客园",
           "url": "https://www.cnblogs.com/"
         },
@@ -323,6 +319,10 @@
         {
           "name": "网易邮箱",
           "url": "https://mail.163.com/"
+        },
+        {
+          "name": "B站",
+          "url": "https://www.bilibili.com/"
         },
         {
           "name": "知乎",
@@ -351,18 +351,6 @@
           "url": "https://www.processon.com/diagrams"
         },
         {
-          "name": "Bitbucket",
-          "url": "https://bitbucket.org/"
-        },
-        {
-          "name": "Gitee",
-          "url": "https://gitee.com/"
-        },
-        {
-          "name": "Firefox",
-          "url": "https://ftp.mozilla.org/pub/firefox/releases/"
-        },
-        {
           "name": "云笔记",
           "url": "https://note.youdao.com/web/"
         },
@@ -373,6 +361,18 @@
         {
           "name": "阿里云盘",
           "url": "https://www.aliyundrive.com/drive/"
+        },
+        {
+          "name": "Firefox",
+          "url": "https://ftp.mozilla.org/pub/firefox/releases/"
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/"
+        },
+        {
+          "name": "Gitee",
+          "url": "https://gitee.com/"
         },
         {
           "name": "百度网盘",
@@ -439,16 +439,20 @@
           "url": "https://www.douyu.com/directory/myFollow/"
         },
         {
-          "name": "优酷",
-          "url": "https://www.youku.com/"
+          "name": "HiFiNi",
+          "url": "https://hifini.com/"
+        },
+        {
+          "name": "云音乐",
+          "url": "https://music.163.com/"
         },
         {
           "name": "视频解析",
           "url": "https://www.skrtv.com/"
         },
         {
-          "name": "云音乐",
-          "url": "https://music.163.com/"
+          "name": "优酷",
+          "url": "https://www.youku.com/"
         },
         {
           "name": "爱奇艺",
@@ -461,10 +465,6 @@
         {
           "name": "字幕组",
           "url": "https://newzmz.com/"
-        },
-        {
-          "name": "HiFiNi",
-          "url": "https://hifini.com/"
         }
       ]
     },
