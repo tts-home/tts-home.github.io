@@ -120,7 +120,7 @@
       "menus": [
         {
           "name": "Notes",
-          "url": "https://tts-notes.bitbucket.io/"
+          "url": "notes"
         },
         {
           "name": "GitHub",
