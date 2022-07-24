@@ -57,7 +57,7 @@
               "url": "https://docs.docker.com/"
             },
             {
-              "name": "AliCloud",
+              "name": "阿里云",
               "url": "https://www.aliyun.com/"
             }
           ]
@@ -170,33 +170,28 @@
           ]
         },
         {
-          "name": "Nacos（Z）",
+          "name": "Nacos",
           "children": [
             {
-              "name": "Develop",
+              "name": "Develop（Z）",
               "url": "http://dev.nacos.surpath-inc.net/"
             },
             {
-              "name": "Test",
+              "name": "Test（Z）",
               "url": "http://test.nacos.surpath-inc.net/"
-            }
-          ]
-        },
-        {
-          "name": "Nacos（S）",
-          "children": [
+            },
             {
-              "name": "Test",
+              "name": "Test（S）",
               "url": "http://test.nacos.surpath-sg.net/"
             },
             {
-              "name": "Product",
+              "name": "Product（S）",
               "url": "http://prd.nacos.surpath-sg.net/"
             }
           ]
         },
         {
-          "name": "ElasticJob（N）",
+          "name": "ElasticJob",
           "children": [
             {
               "name": "Develop",
@@ -213,48 +208,26 @@
           ]
         },
         {
-          "name": "ElasticJob（O）",
+          "name": "XXL-Job",
           "children": [
             {
-              "name": "Develop",
-              "url": "http://schedule.surpath-inc.net/"
-            },
-            {
-              "name": "Test",
-              "url": "http://test.schedule.surpath-inc.net/"
-            },
-            {
-              "name": "Product",
-              "url": "http://prd.schedule.surpath-inc.net/"
-            }
-          ]
-        },
-        {
-          "name": "XXL-Job（Z）",
-          "children": [
-            {
-              "name": "Develop",
+              "name": "Develop（Z）",
               "url": "http://dev.xxljob.surpath-inc.net/"
             },
             {
-              "name": "Test",
+              "name": "Test（Z）",
               "url": "http://test.xxljob.surpath-inc.net/"
             },
             {
-              "name": "Product",
+              "name": "Product（Z）",
               "url": "http://prd.xxljob.surpath-inc.net/"
-            }
-          ]
-        },
-        {
-          "name": "XXL-Job（S）",
-          "children": [
+            },
             {
-              "name": "Test",
+              "name": "Test（S）",
               "url": "http://test.xxljob.surpath-sg.net/"
             },
             {
-              "name": "Product",
+              "name": "Product（S）",
               "url": "http://prd.xxljob.surpath-sg.net/"
             }
           ]
@@ -311,6 +284,10 @@
         {
           "name": "开源中国",
           "url": "https://www.oschina.net/"
+        },
+        {
+          "name": "掘金",
+          "url": "https://juejin.cn/?sort=newest"
         },
         {
           "name": "新浪微博",
