@@ -1,0 +1,505 @@
+{
+  "searchProps": {
+    "action": "https://cn.bing.com/search",
+    "name": "q"
+  },
+  "navMenus": [
+    {
+      "name": "Docs",
+      "icon": "book",
+      "menus": [
+        {
+          "name": "Programing",
+          "children": [
+            {
+              "name": "Java",
+              "url": "https://docs.oracle.com/en/java/javase/index.html"
+            },
+            {
+              "name": "Python",
+              "url": "https://docs.python.org/3/index.html"
+            },
+            {
+              "name": "Kotlin",
+              "url": "https://kotlinlang.org/docs/home.html"
+            },
+            {
+              "name": "Spring",
+              "url": "https://spring.io/projects"
+            },
+            {
+              "name": "MyBatis",
+              "url": "https://www.mybatis.org/mybatis-3/zh/index.html"
+            },
+            {
+              "name": "Hibernate",
+              "url": "https://hibernate.org/orm/documentation/"
+            },
+            {
+              "name": "Reactor",
+              "url": "https://projectreactor.io/docs/core/release/reference/"
+            }
+          ]
+        },
+        {
+          "name": "CI / CD",
+          "children": [
+            {
+              "name": "Git",
+              "url": "https://git-scm.com/docs"
+            },
+            {
+              "name": "Maven",
+              "url": "https://maven.apache.org/guides/index.html"
+            },
+            {
+              "name": "Gradle",
+              "url": "https://docs.gradle.org/current/userguide/userguide.html"
+            },
+            {
+              "name": "Docker",
+              "url": "https://docs.docker.com/"
+            },
+            {
+              "name": "Podman",
+              "url": "https://docs.podman.io/en/latest/"
+            },
+            {
+              "name": "DevOps",
+              "url": "https://devops.aliyun.com/"
+            }
+          ]
+        },
+        {
+          "name": "Database",
+          "children": [
+            {
+              "name": "MySql",
+              "url": "https://dev.mysql.com/doc/refman/8.0/en/"
+            },
+            {
+              "name": "PostgreSQL",
+              "url": "https://www.postgresql.org/docs/current/"
+            },
+            {
+              "name": "ElasticSearch",
+              "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html"
+            },
+            {
+              "name": "MongoDB",
+              "url": "https://docs.mongodb.com/"
+            },
+            {
+              "name": "Redis",
+              "url": "https://redis.io/documentation"
+            }
+          ]
+        },
+        {
+          "name": "Web",
+          "children": [
+            {
+              "name": "MDN",
+              "url": "https://developer.mozilla.org/zh-CN/"
+            },
+            {
+              "name": "Angular",
+              "url": "https://angular.cn/"
+            },
+            {
+              "name": "React",
+              "url": "https://zh-hans.reactjs.org/docs/getting-started.html"
+            },
+            {
+              "name": "Vue.js",
+              "url": "https://v3.cn.vuejs.org/guide/introduction.html"
+            },
+            {
+              "name": "Ant.D",
+              "url": "https://ant-design.gitee.io/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Study",
+      "icon": "school",
+      "menus": [
+        {
+          "name": "Notes",
+          "url": "notes"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/"
+        },
+        {
+          "name": "NowCoder",
+          "url": "https://www.nowcoder.com/"
+        },
+        {
+          "name": "LeetCode",
+          "url": "https://leetcode-cn.com/"
+        }
+      ]
+    },
+    {
+      "name": "Work",
+      "icon": "work",
+      "menus": [
+        {
+          "name": "Wiki",
+          "url": "https://wiki.surpath.net.cn/"
+        },
+        {
+          "name": "Jenkins",
+          "url": "http://jenkins.surpath-inc.net/"
+        },
+        {
+          "name": "GitLab",
+          "url": "http://git.surpath-inc.net/"
+        },
+        {
+          "name": "Configuration",
+          "children": [
+            {
+              "name": "Apollo - dev",
+              "url": "http://dev.apollo.surpath-inc.net/"
+            },
+            {
+              "name": "Apollo - test",
+              "url": "http://test.apollo.surpath-inc.net/"
+            },
+            {
+              "name": "Apollo - prod",
+              "url": "http://prd.apollo.surpath-inc.net/"
+            },
+            {
+              "name": "Nacos - dev（Z）",
+              "url": "http://dev.nacos.surpath-inc.net/"
+            },
+            {
+              "name": "Nacos - test（Z）",
+              "url": "http://test.nacos.surpath-inc.net/"
+            },
+            {
+              "name": "Nacos - test（S）",
+              "url": "http://test.nacos.surpath-sg.net/"
+            },
+            {
+              "name": "Nacos - prod（S）",
+              "url": "http://prd.nacos.surpath-sg.net/"
+            }
+          ]
+        },
+        {
+          "name": "Schedule",
+          "children": [
+            {
+              "name": "ElasticJob - dev",
+              "url": "http://dev.schedule.surpath-inc.com/"
+            },
+            {
+              "name": "ElasticJob - test",
+              "url": "http://test.schedule.surpath-inc.com/"
+            },
+            {
+              "name": "ElasticJob - prod",
+              "url": "http://prd.schedule.surpath-inc.com/"
+            },
+            {
+              "name": "XxlJob - dev（Z）",
+              "url": "http://dev.xxljob.surpath-inc.net/"
+            },
+            {
+              "name": "XxlJob - test（Z）",
+              "url": "http://test.xxljob.surpath-inc.net/"
+            },
+            {
+              "name": "XxlJob - prod（Z）",
+              "url": "http://prd.xxljob.surpath-inc.net/"
+            },
+            {
+              "name": "XxlJob - test（S）",
+              "url": "http://test.xxljob.surpath-sg.net/"
+            },
+            {
+              "name": "XxlJob - prod（S）",
+              "url": "http://prd.xxljob.surpath-sg.net/"
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Harbor",
+              "url": "https://harbor.surpath.net/"
+            },
+            {
+              "name": "Nexsus",
+              "url": "http://mvn.surpath-inc.net/"
+            },
+            {
+              "name": "Jumper",
+              "url": "http://jump.surpath.net.cn/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "siteGroups": [
+    {
+      "title": "Feed",
+      "icon": "feed",
+      "sites": [
+        {
+          "name": "新浪新闻",
+          "url": "https://news.sina.com.cn/roll/"
+        },
+        {
+          "name": "界面新闻",
+          "url": "https://www.jiemian.com/lists/4.html"
+        },
+        {
+          "name": "IT之家",
+          "url": "https://www.ithome.com/list/"
+        },
+        {
+          "name": "过早客",
+          "url": "https://www.guozaoke.com/?tab=latest"
+        },
+        {
+          "name": "博客园",
+          "url": "https://www.cnblogs.com/"
+        },
+        {
+          "name": "开源中国",
+          "url": "https://www.oschina.net/"
+        },
+        {
+          "name": "摸摸鱼",
+          "url": "https://www.momoyu.cc/"
+        },
+        {
+          "name": "网易邮箱",
+          "url": "https://mail.163.com/"
+        },
+        {
+          "name": "好价",
+          "url": "https://faxian.smzdm.com/h1s0t0f0c1p1/#filter-block"
+        },
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/"
+        },
+        {
+          "name": "B站",
+          "url": "https://www.bilibili.com/"
+        }
+      ]
+    },
+    {
+      "title": "Tool",
+      "icon": "settings",
+      "sites": [
+        {
+          "name": "Maven",
+          "url": "https://central.sonatype.com/"
+        },
+        {
+          "name": "在线工具",
+          "url": "https://www.bejson.com/"
+        },
+        {
+          "name": "词典",
+          "url": "https://dict.youdao.com/"
+        },
+        {
+          "name": "ProcessOn",
+          "url": "https://www.processon.com/diagrams"
+        },
+        {
+          "name": "云笔记",
+          "url": "https://note.youdao.com/web/"
+        },
+        {
+          "name": "地图",
+          "url": "https://map.baidu.com/"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.aliyundrive.com/drive/"
+        },
+        {
+          "name": "Firefox",
+          "url": "https://ftp.mozilla.org/pub/firefox/releases/"
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/"
+        },
+        {
+          "name": "Gitee",
+          "url": "https://gitee.com/"
+        },
+        {
+          "name": "Earth",
+          "url": "https://www.earthol.com/g/"
+        }
+      ]
+    },
+    {
+      "title": "Shop",
+      "icon": "shop",
+      "sites": [
+        {
+          "name": "京东",
+          "url": "https://www.jd.com/"
+        },
+        {
+          "name": "淘宝",
+          "url": "https://www.taobao.com/"
+        },
+        {
+          "name": "唯品会",
+          "url": "https://www.vip.com/"
+        },
+        {
+          "name": "苏宁",
+          "url": "https://www.suning.com/"
+        },
+        {
+          "name": "1688",
+          "url": "https://www.1688.com/"
+        },
+        {
+          "name": "真快乐",
+          "url": "https://www.gome.com.cn/"
+        },
+        {
+          "name": "当当网",
+          "url": "https://www.dangdang.com/"
+        },
+        {
+          "name": "考拉海购",
+          "url": "https://www.kaola.com/"
+        },
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/"
+        },
+        {
+          "name": "ebay",
+          "url": "https://www.ebay.com/"
+        },
+        {
+          "name": "大众点评",
+          "url": "https://www.dianping.com/"
+        }
+      ]
+    },
+    {
+      "title": "Media",
+      "icon": "radio",
+      "sites": [
+        {
+          "name": "抖音",
+          "url": "https://www.douyin.com/recommend/"
+        },
+        {
+          "name": "快手",
+          "url": "https://www.kuaishou.com/brilliant"
+        },
+        {
+          "name": "斗鱼",
+          "url": "https://www.douyu.com/directory/myFollow/"
+        },
+        {
+          "name": "HiFiNi",
+          "url": "https://hifini.com/"
+        },
+        {
+          "name": "云音乐",
+          "url": "https://music.163.com/"
+        },
+        {
+          "name": "视频解析",
+          "url": "https://www.m4410.com/"
+        },
+        {
+          "name": "优酷",
+          "url": "https://www.youku.com/"
+        },
+        {
+          "name": "爱奇艺",
+          "url": "https://www.iqiyi.com/"
+        },
+        {
+          "name": "腾讯视频",
+          "url": "https://v.qq.com/"
+        },
+        {
+          "name": "字幕组",
+          "url": "https://newzmz.com/"
+        },
+        {
+          "name": "美剧网",
+          "url": "https://www.mjutv.cn/"
+        }
+      ]
+    },
+    {
+      "title": "Other",
+      "icon": "widgets",
+      "sites": [
+        {
+          "name": "JavaGuide",
+          "url": "https://snailclimb.gitee.io/javaguide/"
+        },
+        {
+          "name": "链家网",
+          "url": "https://wh.lianjia.com/"
+        },
+        {
+          "name": "下厨房",
+          "url": "https://www.xiachufang.com/"
+        },
+        {
+          "name": "Boss直聘",
+          "url": "https://www.zhipin.com/"
+        },
+        {
+          "name": "拉勾",
+          "url": "https://www.lagou.com/"
+        },
+        {
+          "name": "猎聘",
+          "url": "https://www.liepin.com/"
+        },
+        {
+          "name": "汽车之家",
+          "url": "https://www.autohome.com.cn/"
+        },
+        {
+          "name": "和彩云",
+          "url": "https://yun.139.com/w/"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/"
+        },
+        {
+          "name": "中国移动",
+          "url": "https://shop.10086.cn/"
+        },
+        {
+          "name": "中国电信",
+          "url": "https://www.189.cn/"
+        }
+      ]
+    }
+  ]
+}
