@@ -280,7 +280,7 @@
           "url": "https://www.oschina.net/"
         },
         {
-          "name": "摸摸鱼",
+          "name": "Feeds",
           "url": "https://www.momoyu.cc/"
         },
         {
@@ -307,11 +307,11 @@
       "sites": [
         {
           "name": "Maven",
-          "url": "https://central.sonatype.com/"
+          "url": "https://search.maven.org/"
         },
         {
           "name": "在线工具",
-          "url": "https://www.bejson.com/"
+          "url": "https://c.runoob.com/"
         },
         {
           "name": "词典",
@@ -376,7 +376,7 @@
           "url": "https://www.1688.com/"
         },
         {
-          "name": "真快乐",
+          "name": "国美",
           "url": "https://www.gome.com.cn/"
         },
         {
@@ -427,7 +427,7 @@
         },
         {
           "name": "视频解析",
-          "url": "https://www.m4410.com/"
+          "url": "https://www.m9080.com/"
         },
         {
           "name": "优酷",
