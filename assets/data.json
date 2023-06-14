@@ -132,7 +132,7 @@
         },
         {
           "name": "GitHub",
-          "url": "https://github.com/"
+          "url": "https://github.com/trending"
         },
         {
           "name": "NowCoder",
@@ -159,6 +159,10 @@
         {
           "name": "GitLab",
           "url": "http://git.surpath-inc.net/"
+        },
+        {
+          "name": "Rancher",
+          "url": "https://rancher.surpath.net/"
         },
         {
           "name": "Configuration",
@@ -307,7 +311,7 @@
       "sites": [
         {
           "name": "Maven",
-          "url": "https://search.maven.org/"
+          "url": "https://central.sonatype.com/"
         },
         {
           "name": "在线工具",
