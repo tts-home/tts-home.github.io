@@ -248,6 +248,14 @@
             {
               "name": "Jumper",
               "url": "http://jump.surpath.net.cn/"
+            },
+            {
+              "name": "CAT",
+              "url": "http://cat.surpath-inc.net/"
+            },
+            {
+              "name": "SkyWalking",
+              "url": "http://sw.surpath-inc.com/"
             }
           ]
         }
@@ -430,8 +438,8 @@
           "url": "https://music.163.com/"
         },
         {
-          "name": "视频解析",
-          "url": "https://www.m9080.com/"
+          "name": "爱看",
+          "url": "https://www.ikan.club/"
         },
         {
           "name": "优酷",
