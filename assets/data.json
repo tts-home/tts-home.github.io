@@ -132,7 +132,7 @@
         },
         {
           "name": "GitHub",
-          "url": "https://github.com/trending"
+          "url": "https://github.com/"
         },
         {
           "name": "NowCoder",
@@ -168,32 +168,16 @@
           "name": "Configuration",
           "children": [
             {
-              "name": "Apollo - dev",
-              "url": "http://dev.apollo.surpath-inc.net/"
-            },
-            {
-              "name": "Apollo - test",
-              "url": "http://test.apollo.surpath-inc.net/"
-            },
-            {
               "name": "Apollo - prod",
               "url": "http://prd.apollo.surpath-inc.net/"
             },
             {
               "name": "Nacos - dev（Z）",
-              "url": "http://dev.nacos.surpath-inc.net/"
+              "url": "http://nacos.surpath-inc.net/"
             },
             {
-              "name": "Nacos - test（Z）",
-              "url": "http://test.nacos.surpath-inc.net/"
-            },
-            {
-              "name": "Nacos - test（S）",
-              "url": "http://test.nacos.surpath-sg.net/"
-            },
-            {
-              "name": "Nacos - prod（S）",
-              "url": "http://prd.nacos.surpath-sg.net/"
+              "name": "Nacos - prod（Z）",
+              "url": "http://nacos.surpath-inc.com/"
             }
           ]
         },
@@ -202,11 +186,15 @@
           "children": [
             {
               "name": "ElasticJob - dev",
-              "url": "http://dev.schedule.surpath-inc.com/"
+              "url": "http://dev-esjob.surpath-inc.net/"
             },
             {
               "name": "ElasticJob - test",
-              "url": "http://test.schedule.surpath-inc.com/"
+              "url": "http://test-esjob.surpath-inc.net/"
+            },
+            {
+              "name": "ElasticJob - demo",
+              "url": "http://demo-esjob.surpath-inc.net/"
             },
             {
               "name": "ElasticJob - prod",
@@ -214,23 +202,19 @@
             },
             {
               "name": "XxlJob - dev（Z）",
-              "url": "http://dev.xxljob.surpath-inc.net/"
+              "url": "http://dev-xxljob.surpath-inc.net/"
             },
             {
               "name": "XxlJob - test（Z）",
-              "url": "http://test.xxljob.surpath-inc.net/"
+              "url": "http://test-xxljob.surpath-inc.net/"
+            },
+            {
+              "name": "XxlJob - demo（Z）",
+              "url": "http://demo-xxljob.surpath-inc.net/"
             },
             {
               "name": "XxlJob - prod（Z）",
-              "url": "http://prd.xxljob.surpath-inc.net/"
-            },
-            {
-              "name": "XxlJob - test（S）",
-              "url": "http://test.xxljob.surpath-sg.net/"
-            },
-            {
-              "name": "XxlJob - prod（S）",
-              "url": "http://prd.xxljob.surpath-sg.net/"
+              "url": "http://prd-xxljob.surpath-inc.net /"
             }
           ]
         },
@@ -262,11 +246,11 @@
       ]
     }
   ],
-  "siteGroups": [
+  "linkGroups": [
     {
       "title": "Feed",
       "icon": "feed",
-      "sites": [
+      "links": [
         {
           "name": "新浪新闻",
           "url": "https://news.sina.com.cn/roll/"
@@ -280,16 +264,16 @@
           "url": "https://www.ithome.com/list/"
         },
         {
+          "name": "36Kr",
+          "url": "https://www.36kr.com/newsflashes/"
+        },
+        {
           "name": "过早客",
           "url": "https://www.guozaoke.com/?tab=latest"
         },
         {
           "name": "博客园",
           "url": "https://www.cnblogs.com/"
-        },
-        {
-          "name": "开源中国",
-          "url": "https://www.oschina.net/"
         },
         {
           "name": "Feeds",
@@ -316,10 +300,14 @@
     {
       "title": "Tool",
       "icon": "settings",
-      "sites": [
+      "links": [
         {
           "name": "Maven",
           "url": "https://central.sonatype.com/"
+        },
+        {
+          "name": "NPM",
+          "url": "https://npmmirror.com/"
         },
         {
           "name": "在线工具",
@@ -338,10 +326,6 @@
           "url": "https://note.youdao.com/web/"
         },
         {
-          "name": "地图",
-          "url": "https://map.baidu.com/"
-        },
-        {
           "name": "阿里云盘",
           "url": "https://www.aliyundrive.com/drive/"
         },
@@ -350,23 +334,23 @@
           "url": "https://ftp.mozilla.org/pub/firefox/releases/"
         },
         {
-          "name": "Bitbucket",
-          "url": "https://bitbucket.org/"
+          "name": "百度地图",
+          "url": "https://map.baidu.com/"
         },
         {
-          "name": "Gitee",
-          "url": "https://gitee.com/"
+          "name": "天地图",
+          "url": "https://map.tianditu.gov.cn/"
         },
         {
-          "name": "Earth",
-          "url": "https://www.earthol.com/g/"
+          "name": "ArcGis",
+          "url": "https://livingatlas.arcgis.com/wayback/"
         }
       ]
     },
     {
       "title": "Shop",
       "icon": "shop",
-      "sites": [
+      "links": [
         {
           "name": "京东",
           "url": "https://www.jd.com/"
@@ -380,32 +364,32 @@
           "url": "https://www.vip.com/"
         },
         {
-          "name": "苏宁",
-          "url": "https://www.suning.com/"
+          "name": "拼多多",
+          "url": "https://mobile.yangkeduo.com/"
         },
         {
-          "name": "1688",
-          "url": "https://www.1688.com/"
-        },
-        {
-          "name": "国美",
-          "url": "https://www.gome.com.cn/"
+          "name": "购物党",
+          "url": "https://gwdang.com/"
         },
         {
           "name": "当当网",
           "url": "https://www.dangdang.com/"
         },
         {
-          "name": "考拉海购",
-          "url": "https://www.kaola.com/"
+          "name": "1688",
+          "url": "https://www.1688.com/"
+        },
+        {
+          "name": "小米商城",
+          "url": "https://www.mi.com/shop"
         },
         {
           "name": "Amazon",
           "url": "https://www.amazon.com/"
         },
         {
-          "name": "ebay",
-          "url": "https://www.ebay.com/"
+          "name": "携程",
+          "url": "https://www.ctrip.com/"
         },
         {
           "name": "大众点评",
@@ -416,10 +400,14 @@
     {
       "title": "Media",
       "icon": "radio",
-      "sites": [
+      "links": [
         {
           "name": "抖音",
           "url": "https://www.douyin.com/recommend/"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/explore"
         },
         {
           "name": "快手",
@@ -454,22 +442,18 @@
           "url": "https://v.qq.com/"
         },
         {
-          "name": "字幕组",
-          "url": "https://newzmz.com/"
-        },
-        {
-          "name": "美剧网",
-          "url": "https://www.mjutv.cn/"
+          "name": "SubHD",
+          "url": "https://subhdtw.com/"
         }
       ]
     },
     {
       "title": "Other",
       "icon": "widgets",
-      "sites": [
+      "links": [
         {
-          "name": "JavaGuide",
-          "url": "https://snailclimb.gitee.io/javaguide/"
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/"
         },
         {
           "name": "链家网",
