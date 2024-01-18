@@ -310,6 +310,10 @@
           "url": "https://npmmirror.com/"
         },
         {
+          "name": "GitHub",
+          "url": "https://github.ink/"
+        },
+        {
           "name": "在线工具",
           "url": "https://c.runoob.com/"
         },
@@ -340,10 +344,6 @@
         {
           "name": "天地图",
           "url": "https://map.tianditu.gov.cn/"
-        },
-        {
-          "name": "ArcGis",
-          "url": "https://livingatlas.arcgis.com/wayback/"
         }
       ]
     },
@@ -368,10 +368,6 @@
           "url": "https://mobile.yangkeduo.com/"
         },
         {
-          "name": "购物党",
-          "url": "https://gwdang.com/"
-        },
-        {
           "name": "当当网",
           "url": "https://www.dangdang.com/"
         },
@@ -380,20 +376,24 @@
           "url": "https://www.1688.com/"
         },
         {
-          "name": "小米商城",
-          "url": "https://www.mi.com/shop"
-        },
-        {
-          "name": "Amazon",
-          "url": "https://www.amazon.com/"
+          "name": "购物党",
+          "url": "https://gwdang.com/v2/trend"
         },
         {
           "name": "携程",
           "url": "https://www.ctrip.com/"
         },
         {
-          "name": "大众点评",
-          "url": "https://www.dianping.com/"
+          "name": "Boss直聘",
+          "url": "https://www.zhipin.com/"
+        },
+        {
+          "name": "拉勾",
+          "url": "https://www.lagou.com/"
+        },
+        {
+          "name": "猎聘",
+          "url": "https://www.liepin.com/"
         }
       ]
     },
@@ -456,24 +456,24 @@
           "url": "https://bitbucket.org/"
         },
         {
+          "name": "ArcGis",
+          "url": "https://livingatlas.arcgis.com/wayback/"
+        },
+        {
+          "name": "Outlook",
+          "url": "https://outlook.live.com/"
+        },
+        {
+          "name": "Strava",
+          "url": "https://www.strava.com/"
+        },
+        {
           "name": "链家网",
           "url": "https://wh.lianjia.com/"
         },
         {
           "name": "下厨房",
           "url": "https://www.xiachufang.com/"
-        },
-        {
-          "name": "Boss直聘",
-          "url": "https://www.zhipin.com/"
-        },
-        {
-          "name": "拉勾",
-          "url": "https://www.lagou.com/"
-        },
-        {
-          "name": "猎聘",
-          "url": "https://www.liepin.com/"
         },
         {
           "name": "汽车之家",
