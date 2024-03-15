@@ -264,10 +264,6 @@
           "url": "https://www.ithome.com/list/"
         },
         {
-          "name": "ZOL",
-          "url": "https://news.zol.com.cn/list.html"
-        },
-        {
           "name": "过早客",
           "url": "https://www.guozaoke.com/?tab=latest"
         },
@@ -278,6 +274,10 @@
         {
           "name": "Feeds",
           "url": "https://www.momoyu.cc/"
+        },
+        {
+          "name": "掘金",
+          "url": "https://juejin.cn/recommended?sort=newest"
         },
         {
           "name": "网易邮箱",
@@ -426,8 +426,8 @@
           "url": "https://music.163.com/"
         },
         {
-          "name": "爱看",
-          "url": "https://www.ikan.club/"
+          "name": "央视频",
+          "url": "https://www.yangshipin.cn/#/tv/home"
         },
         {
           "name": "优酷",
