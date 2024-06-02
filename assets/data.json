@@ -104,7 +104,7 @@
             },
             {
               "name": "Angular",
-              "url": "https://angular.cn/"
+              "url": "https://angular.dev/"
             },
             {
               "name": "React",
@@ -268,16 +268,16 @@
           "url": "https://www.guozaoke.com/?tab=latest"
         },
         {
+          "name": "开源中国",
+          "url": "https://www.oschina.net/news"
+        },
+        {
           "name": "博客园",
           "url": "https://www.cnblogs.com/"
         },
         {
           "name": "Feeds",
           "url": "https://www.momoyu.cc/"
-        },
-        {
-          "name": "掘金",
-          "url": "https://juejin.cn/recommended?sort=newest"
         },
         {
           "name": "网易邮箱",
@@ -307,15 +307,11 @@
         },
         {
           "name": "NPM",
-          "url": "https://npmmirror.com/"
-        },
-        {
-          "name": "GitHub",
-          "url": "https://github.ink/"
+          "url": "https://www.npmjs.com/"
         },
         {
           "name": "在线工具",
-          "url": "https://c.runoob.com/"
+          "url": "https://www.matools.com/"
         },
         {
           "name": "词典",
@@ -338,8 +334,12 @@
           "url": "https://ftp.mozilla.org/pub/firefox/releases/"
         },
         {
-          "name": "百度地图",
-          "url": "https://map.baidu.com/"
+          "name": "高德地图",
+          "url": "https://ditu.amap.com/"
+        },
+        {
+          "name": "天气",
+          "url": "https://weather.cma.cn/"
         },
         {
           "name": "天地图",
