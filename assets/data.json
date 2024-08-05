@@ -112,7 +112,7 @@
             },
             {
               "name": "Vue.js",
-              "url": "https://v3.cn.vuejs.org/guide/introduction.html"
+              "url": "https://cn.vuejs.org/guide/introduction.html"
             },
             {
               "name": "Ant.D",
@@ -268,10 +268,6 @@
           "url": "https://www.guozaoke.com/?tab=latest"
         },
         {
-          "name": "开源中国",
-          "url": "https://www.oschina.net/news"
-        },
-        {
           "name": "博客园",
           "url": "https://www.cnblogs.com/"
         },
@@ -280,7 +276,7 @@
           "url": "https://www.momoyu.cc/"
         },
         {
-          "name": "网易邮箱",
+          "name": "邮箱",
           "url": "https://mail.163.com/"
         },
         {
@@ -294,6 +290,10 @@
         {
           "name": "B站",
           "url": "https://www.bilibili.com/"
+        },
+        {
+          "name": "SOF",
+          "url": "https://stackoverflow.com/questions/tagged?sort=Newest&tagMode=Watched"
         }
       ]
     },
@@ -301,6 +301,10 @@
       "title": "Tool",
       "icon": "settings",
       "links": [
+        {
+          "name": "通义",
+          "url": "https://tongyi.aliyun.com/qianwen/"
+        },
         {
           "name": "Maven",
           "url": "https://central.sonatype.com/"
@@ -338,10 +342,6 @@
           "url": "https://ditu.amap.com/"
         },
         {
-          "name": "天气",
-          "url": "https://weather.cma.cn/"
-        },
-        {
           "name": "天地图",
           "url": "https://map.tianditu.gov.cn/"
         }
@@ -364,8 +364,8 @@
           "url": "https://www.vip.com/"
         },
         {
-          "name": "拼多多",
-          "url": "https://mobile.yangkeduo.com/"
+          "name": "闲鱼",
+          "url": "https://2.taobao.com/"
         },
         {
           "name": "当当网",
@@ -410,20 +410,12 @@
           "url": "https://www.xiaohongshu.com/explore"
         },
         {
-          "name": "快手",
-          "url": "https://www.kuaishou.com/brilliant"
-        },
-        {
-          "name": "斗鱼",
-          "url": "https://www.douyu.com/directory/myFollow/"
+          "name": "云音乐",
+          "url": "https://music.163.com/"
         },
         {
           "name": "HiFiNi",
           "url": "https://hifini.com/"
-        },
-        {
-          "name": "云音乐",
-          "url": "https://music.163.com/"
         },
         {
           "name": "央视频",
@@ -440,6 +432,14 @@
         {
           "name": "腾讯视频",
           "url": "https://v.qq.com/"
+        },
+        {
+          "name": "西瓜视频",
+          "url": "https://www.ixigua.com/"
+        },
+        {
+          "name": "VIDHUB",
+          "url": "https://vidhub1.cc/"
         },
         {
           "name": "SubHD",
