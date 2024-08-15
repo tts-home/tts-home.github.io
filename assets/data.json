@@ -338,8 +338,8 @@
           "url": "https://ftp.mozilla.org/pub/firefox/releases/"
         },
         {
-          "name": "高德地图",
-          "url": "https://ditu.amap.com/"
+          "name": "百度地图",
+          "url": "https://map.baidu.com/"
         },
         {
           "name": "天地图",
@@ -438,7 +438,7 @@
           "url": "https://www.ixigua.com/"
         },
         {
-          "name": "VIDHUB",
+          "name": "VidHub",
           "url": "https://vidhub1.cc/"
         },
         {
