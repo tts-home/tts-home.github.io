@@ -260,6 +260,10 @@
           "url": "https://www.jiemian.com/lists/4.html"
         },
         {
+          "name": "雪球",
+          "url": "https://xueqiu.com/"
+        },
+        {
           "name": "IT之家",
           "url": "https://www.ithome.com/list/"
         },
@@ -290,10 +294,6 @@
         {
           "name": "B站",
           "url": "https://www.bilibili.com/"
-        },
-        {
-          "name": "SOF",
-          "url": "https://stackoverflow.com/questions/tagged?sort=Newest&tagMode=Watched"
         }
       ]
     },
@@ -403,7 +403,7 @@
       "links": [
         {
           "name": "抖音",
-          "url": "https://www.douyin.com/recommend/"
+          "url": "https://www.douyin.com/?recommend=1"
         },
         {
           "name": "小红书",
