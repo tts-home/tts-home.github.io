@@ -149,97 +149,19 @@
       "icon": "work",
       "menus": [
         {
-          "name": "Wiki",
-          "url": "https://wiki.surpath.net.cn/"
-        },
-        {
           "name": "Jenkins",
-          "url": "http://jenkins.surpath-inc.net/"
-        },
-        {
-          "name": "GitLab",
-          "url": "http://git.surpath-inc.net/"
-        },
-        {
-          "name": "Rancher",
-          "url": "https://rancher.surpath.net/"
+          "url": "http://jenkins.tts.net/"
         },
         {
           "name": "Configuration",
           "children": [
             {
               "name": "Apollo - prod",
-              "url": "http://prd.apollo.surpath-inc.net/"
+              "url": "http://prd.apollo.tts.net/"
             },
             {
-              "name": "Nacos - dev（Z）",
-              "url": "http://nacos.surpath-inc.net/"
-            },
-            {
-              "name": "Nacos - prod（Z）",
-              "url": "http://nacos.surpath-inc.com/"
-            }
-          ]
-        },
-        {
-          "name": "Schedule",
-          "children": [
-            {
-              "name": "ElasticJob - dev",
-              "url": "http://dev-esjob.surpath-inc.net/"
-            },
-            {
-              "name": "ElasticJob - test",
-              "url": "http://test-esjob.surpath-inc.net/"
-            },
-            {
-              "name": "ElasticJob - demo",
-              "url": "http://demo-esjob.surpath-inc.net/"
-            },
-            {
-              "name": "ElasticJob - prod",
-              "url": "http://prd.schedule.surpath-inc.com/"
-            },
-            {
-              "name": "XxlJob - dev（Z）",
-              "url": "http://dev-xxljob.surpath-inc.net/"
-            },
-            {
-              "name": "XxlJob - test（Z）",
-              "url": "http://test-xxljob.surpath-inc.net/"
-            },
-            {
-              "name": "XxlJob - demo（Z）",
-              "url": "http://demo-xxljob.surpath-inc.net/"
-            },
-            {
-              "name": "XxlJob - prod（Z）",
-              "url": "http://prd-xxljob.surpath-inc.net /"
-            }
-          ]
-        },
-        {
-          "name": "Other",
-          "children": [
-            {
-              "name": "Harbor",
-              "url": "https://harbor.surpath.net/"
-            },
-            {
-              "name": "Nexsus",
-              "url": "http://mvn.surpath-inc.net/"
-            },
-            {
-              "name": "Jumper",
-              "url": "http://jump.surpath.net.cn/"
-            },
-            {
-              "name": "CAT",
-              "url": "http://cat.surpath-inc.net/"
-            },
-            {
-              "name": "SkyWalking",
-              "url": "http://sw.surpath-inc.com/"
+              "name": "Nacos - dev",
+              "url": "http://nacos.tts.net/"
             }
           ]
         }
@@ -260,16 +182,20 @@
           "url": "https://www.jiemian.com/lists/4.html"
         },
         {
+          "name": "电报",
+          "url": "https://www.cls.cn/telegraph"
+        },
+        {
+          "name": "Readhub",
+          "url": "https://readhub.cn/"
+        },
+        {
           "name": "IT之家",
           "url": "https://www.ithome.com/list/"
         },
         {
           "name": "过早客",
           "url": "https://www.guozaoke.com/?tab=latest"
-        },
-        {
-          "name": "博客园",
-          "url": "https://www.cnblogs.com/"
         },
         {
           "name": "Feeds",
@@ -290,10 +216,6 @@
         {
           "name": "B站",
           "url": "https://www.bilibili.com/"
-        },
-        {
-          "name": "SOF",
-          "url": "https://stackoverflow.com/questions/tagged?sort=Newest&tagMode=Watched"
         }
       ]
     },
@@ -315,7 +237,7 @@
         },
         {
           "name": "在线工具",
-          "url": "https://www.matools.com/"
+          "url": "https://www.ol-tools.com/"
         },
         {
           "name": "词典",
@@ -330,16 +252,16 @@
           "url": "https://note.youdao.com/web/"
         },
         {
-          "name": "阿里云盘",
-          "url": "https://www.aliyundrive.com/drive/"
+          "name": "ED3000",
+          "url": "https://www.ed3000.com/"
         },
         {
-          "name": "Firefox",
-          "url": "https://ftp.mozilla.org/pub/firefox/releases/"
+          "name": "Stroke",
+          "url": "https://www.strokeorder.com/"
         },
         {
-          "name": "百度地图",
-          "url": "https://map.baidu.com/"
+          "name": "高德地图",
+          "url": "https://ditu.amap.com/"
         },
         {
           "name": "天地图",
@@ -377,7 +299,7 @@
         },
         {
           "name": "购物党",
-          "url": "https://gwdang.com/v2/trend"
+          "url": "https://www.gwdang.com/v2/trend?from=search"
         },
         {
           "name": "携程",
@@ -388,12 +310,12 @@
           "url": "https://www.zhipin.com/"
         },
         {
-          "name": "拉勾",
-          "url": "https://www.lagou.com/"
-        },
-        {
           "name": "猎聘",
           "url": "https://www.liepin.com/"
+        },
+        {
+          "name": "拉勾",
+          "url": "https://www.lagou.com/"
         }
       ]
     },
@@ -403,7 +325,7 @@
       "links": [
         {
           "name": "抖音",
-          "url": "https://www.douyin.com/recommend/"
+          "url": "https://www.douyin.com/?recommend=1"
         },
         {
           "name": "小红书",
@@ -419,27 +341,27 @@
         },
         {
           "name": "央视频",
-          "url": "https://www.yangshipin.cn/#/tv/home"
+          "url": "https://www.yangshipin.cn/tv/home"
+        },
+        {
+          "name": "芒果TV",
+          "url": "https://www.mgtv.com/"
+        },
+        {
+          "name": "咪咕",
+          "url": "https://www.miguvideo.com/"
         },
         {
           "name": "优酷",
           "url": "https://www.youku.com/"
         },
         {
-          "name": "爱奇艺",
-          "url": "https://www.iqiyi.com/"
-        },
-        {
-          "name": "腾讯视频",
-          "url": "https://v.qq.com/"
-        },
-        {
           "name": "西瓜视频",
           "url": "https://www.ixigua.com/"
         },
         {
-          "name": "VidHub",
-          "url": "https://vidhub1.cc/"
+          "name": "影视在线",
+          "url": "https://www.ysdq.me/"
         },
         {
           "name": "SubHD",
@@ -464,8 +386,8 @@
           "url": "https://outlook.live.com/"
         },
         {
-          "name": "Strava",
-          "url": "https://www.strava.com/"
+          "name": "Firefox",
+          "url": "https://ftp.mozilla.org/pub/firefox/releases/"
         },
         {
           "name": "贝壳",
