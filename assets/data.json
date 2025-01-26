@@ -224,8 +224,8 @@
       "icon": "settings",
       "links": [
         {
-          "name": "通义",
-          "url": "https://tongyi.aliyun.com/qianwen/"
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/"
         },
         {
           "name": "Maven",
@@ -252,8 +252,8 @@
           "url": "https://note.youdao.com/web/"
         },
         {
-          "name": "ED3000",
-          "url": "https://www.ed3000.com/"
+          "name": "小马盘",
+          "url": "https://www.xiaomapan.com/"
         },
         {
           "name": "Stroke",
