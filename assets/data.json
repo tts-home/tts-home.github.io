@@ -186,8 +186,8 @@
           "url": "https://www.cls.cn/telegraph"
         },
         {
-          "name": "Readhub",
-          "url": "https://readhub.cn/"
+          "name": "鞭牛士",
+          "url": "https://www.bianews.com/news-flash/flash"
         },
         {
           "name": "IT之家",
@@ -224,6 +224,10 @@
       "icon": "settings",
       "links": [
         {
+          "name": "Qwen",
+          "url": "https://chat.qwen.ai/"
+        },
+        {
           "name": "DeepSeek",
           "url": "https://chat.deepseek.com/"
         },
@@ -250,10 +254,6 @@
         {
           "name": "云笔记",
           "url": "https://note.youdao.com/web/"
-        },
-        {
-          "name": "小马盘",
-          "url": "https://www.xiaomapan.com/"
         },
         {
           "name": "Stroke",
@@ -360,8 +360,8 @@
           "url": "https://www.ixigua.com/"
         },
         {
-          "name": "影视在线",
-          "url": "https://www.ysdq.me/"
+          "name": "影视",
+          "url": "https://www.yingshidaquantv.com/"
         },
         {
           "name": "SubHD",
